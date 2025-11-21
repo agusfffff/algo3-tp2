@@ -1,8 +1,9 @@
 ![tp2](https://github.com/fiuba/algo3_proyecto_base_tp2/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/fiuba/algo3_proyecto_base_tp2/branch/master/graph/badge.svg)](https://codecov.io/gh/fiuba/algo3_proyecto_base_tp2)
 
-# TP2 Algoritmos 3: Carpincho
+# TP2 Algoritmos 3:
 
-Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
+Trabajo Práctico de la materia Algoritmos y Programación III de FIUBA.
+[Java, JavaFX, JUnit, Mockito, Maven, IntelliJ]: Reconstrucción del juego de cartas Balatro con Java, JavaFX para la interfaz, JUnit y Mockito para pruebas unitarias y mocks, Maven para manejar dependencias y IntelliJ como entorno de desarrollo. Se aplicaron principios de POO y TDD durante todo el desarrollo.
 
 ## Grupo {N}
 
@@ -10,21 +11,3 @@ Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUB
 * **Dana Kölln** - [dana](https://github.com/Danaklln)
 * **Axel Billordo** - [Axel](https://github.com/axeel25)
 * **Valentino Ceniceros** - [valentino](https://github.com/vceniceros)
-
-Corrector: **Santiago**
-
-## Aplicación
-
-La versión más reciente de la aplicación puede encontrarse en la pestaña [releases](https://github.com/fiuba/algo3_proyecto_base_tp2/releases/latest) y ejecutarse en Linux, Windows o Mac de esta forma:
-
-```bash
-$ java -jar <archivo.jar>
-```
-
-## Desarrollo
-
-Aquellos que deseen colaborar con el proyecto pueden consultar la [guía de desarrollo](./docs/Desarrollo.md).
-
-## Licencia
-
-Este repositorio se encuentra bajo la Licencia MIT.
